@@ -1,0 +1,16 @@
+# Segurança
+.env
+*.pem
+*.key
+*.csv
+
+# Git (NUNCA subir isso)
+.git/
+
+# Python (se tiver)
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+*.json

@@ -1,0 +1,3 @@
+Execute 'install.bat' para pôr o bot para rodar no Task Scheduler do windows, permitindo assim que ele execute sempre que o windows for inicializado.
+
+Execute o 'start.bat' caso queira uma execução manual e única do bot. Se desligar o computador, o bot parará e só voltará se executar esse .bat de novo.
